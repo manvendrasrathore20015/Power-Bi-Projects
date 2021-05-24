@@ -18,16 +18,20 @@ The Inventory table - contains over 1,500 records that represent the stock on ha
 
 ## Dashboard Diffrent Visuals -
 
-1). 
+1). Main Dashboard ..
+
 ![Dash_img](https://user-images.githubusercontent.com/52499914/119385954-83848e80-bce4-11eb-8a33-c80c1e898029.png)
 
-2). 
+2). Product Category Selected as Toys ..
+
 ![git_img1](https://user-images.githubusercontent.com/52499914/119386014-9a2ae580-bce4-11eb-9529-3fbb924b3350.png)
 
-3).
+3). Store Location Selected as Downtown ..
+
 ![git_img2](https://user-images.githubusercontent.com/52499914/119386079-ad3db580-bce4-11eb-9a87-99e7c14049a8.png)
 
-4).
+4). Year Bar selected as 2018 ..
+ 
 ![git_img3](https://user-images.githubusercontent.com/52499914/119386125-b75fb400-bce4-11eb-8b96-cabbd6ed0518.png)
 
 ## Observations -
