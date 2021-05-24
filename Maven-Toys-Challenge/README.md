@@ -1,12 +1,5 @@
 # Maven Toys Challenge
 
-## Table Of Content :-
- 
-* [My Dashboard](#My Dashboard)
-
-2). About The Data
-3). Dashboard Diffrent Visuals -
-
 ## My Dashboard -
 
 
