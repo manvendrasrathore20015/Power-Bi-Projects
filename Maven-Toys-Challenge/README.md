@@ -8,7 +8,7 @@
   * [Technologies Used](#technologies-used)
 
 
-## My Dashboard -
+## My Dashboard
 
 
 
