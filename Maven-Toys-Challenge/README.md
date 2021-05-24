@@ -1,5 +1,13 @@
 # Maven Toys Challenge
 
+## Table of Content
+  * [My Dashboard](#My Dashboard)
+  * [About The Data](#About The Data)
+  * [Observations](#Observations)
+  * [UI overview](#UI-overview)
+  * [Technologies Used](#technologies-used)
+
+
 ## My Dashboard -
 
 
