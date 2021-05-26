@@ -10,11 +10,15 @@ Datasets: Deals and Promotion Datasets
 
 This dataset contains details about Customers of FestMan Store. There are 5 tables covering customers and their transactions.
 
- Customer Profiles: Details about the customers
- Website visits: Number of Customer visits to company's web site in the last month and the device used
- Customer Purchases: Details of customers purchase
- Customer spend: Amount spent by customers on various products
- Deal responses: Details of customers acceptance of deals and promotions
+ - Customer Profiles: Details about the customers
+ 
+ - Website visits: Number of Customer visits to company's web site in the last month and the device used
+
+ - Customer Purchases: Details of customers purchase
+ 
+ - Customer spend: Amount spent by customers on various products
+ 
+ - Deal responses: Details of customers acceptance of deals and promotions
  
  
 ## Tool Used - 
