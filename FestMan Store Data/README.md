@@ -1,4 +1,4 @@
-# Maven Toys Challenge
+# FestMan Data Hackathon
 
 ## My Dashboard -
 
